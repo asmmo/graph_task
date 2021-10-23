@@ -1,4 +1,5 @@
 /target
+/.idea
 Cargo.lock
 les_1000_distances_table.csv
 **.png
